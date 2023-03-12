@@ -27,7 +27,7 @@ A collection of resources around the area of inclusive user research.
 
 ## 3rd Party Disabled Participant Providers
 
-(I wasn't sure how else to phrase the heading, so apologies if it's insensitive.)
+>I wasn't sure how else to phrase the heading, so apologies if it's insensitive. Let me know how to change it!
 
 - [Fable](https://makeitfable.com/)
 - [Access Works](https://access-works.com/)
