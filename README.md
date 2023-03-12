@@ -25,9 +25,7 @@ A collection of resources around the area of inclusive user research.
 
 - [Designing for autistic people — overview of existing research](https://uxdesign.cc/designing-for-autistic-people-overview-of-existing-research-d6f6dc20710e)
 
-## 3rd Party Disabled Participant Providers
-
->I wasn't sure how else to phrase the heading, so apologies if it's insensitive. Let me know how to change it!
+## Disabled Participant Recruiters
 
 - [Fable](https://makeitfable.com/)
 - [Access Works](https://access-works.com/)
