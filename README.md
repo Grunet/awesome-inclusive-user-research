@@ -1,6 +1,6 @@
 # awesome-inclusive-user-research
 
-A collection of resources around the area of inclusive user research.
+A collection of resources around the area of inclusive user research. Check out https://github.com/Grunet/awesome-inclusive-design for more on inclusive design.
 
 ## Methodologies and Practice
 
