@@ -2,4 +2,4 @@ The primary focus is on user research for disabled people, but inclusive researc
 
 Note that the focus is on research specifically, not design.
 
-You can either let me know of the resource in some channel (e.g. Slack, Twitter, Reddit) or create a PR to add it in yourself.
+You can either let me know of the resource in some channel (e.g. Slack, Twitter, Reddit, Github Issues) or create a PR to add it in yourself.
