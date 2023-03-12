@@ -2,10 +2,11 @@
 
 A collection of resources around the area of inclusive user research.
 
-## Methodologies, Tools, and the Practice
+## Methodologies and Practice
 
 - [A Practical Guide to Inclusive Research. The why and how to make your UX Research practice more inclusive.](https://medium.com/inclusive-research)
 - [Think Like an Accessible UX Researcher Part 1 of 3](https://www.tpgi.com/think-like-an-accessible-ux-researcher-part-1-defining-your-research-problem/) 
+- [Toward a More Accessible Metaverse](https://medium.com/meta-research/toward-a-more-accessible-metaverse-a98684bb3f7e)
 
 ## Studies
 
