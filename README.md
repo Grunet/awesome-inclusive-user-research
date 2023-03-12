@@ -29,7 +29,7 @@ A collection of resources around the area of inclusive user research.
 
 - [Fable](https://makeitfable.com/)
 - [Access Works](https://access-works.com/)
-- (TODO - add that british organization)
+- [Simply Open](https://www.simplyopen.io/)
 
 
 
