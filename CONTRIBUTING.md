@@ -1,3 +1,5 @@
-The primary focus is on user research for disabled people, but inclusive research resources more broadly is of course welcome.
+The primary focus is on user research for disabled people, but inclusive research resources more broadly are of course welcome.
 
-You can either let me know of the resource in some channel (e.g. Slack, Twitter, Reddit) or create a PR to add it in yourself
+Note that the focus is on research specifically, not design.
+
+You can either let me know of the resource in some channel (e.g. Slack, Twitter, Reddit) or create a PR to add it in yourself.
