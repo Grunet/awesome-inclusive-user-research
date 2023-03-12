@@ -19,7 +19,7 @@ A collection of resources around the area of inclusive user research.
 ## Surveys
 
 - [Webaim surveys on screen reader users, low vision users, and motor disabled users](https://webaim.org/projects/)
-- [Don’t Believe The Type! - axe-con 2021. This is about readability of type faces](https://youtu.be/h8IOqUl1zII)
+- [Don’t Believe The Type! - axe-con 2021. This is about readability of typefaces](https://youtu.be/h8IOqUl1zII)
 
 ## Summaries
 
