@@ -2,6 +2,8 @@
 
 A collection of resources around the area of inclusive user research. Check out https://github.com/Grunet/awesome-inclusive-design for more on inclusive design.
 
+> The resources themselves have not each been vetted for accessibility. Let me know if you run into issues with any of them and I will create alternatives.
+
 ## Methodologies and Practice
 
 - [A Practical Guide to Inclusive Research. The why and how to make your UX Research practice more inclusive.](https://medium.com/inclusive-research)
@@ -32,6 +34,7 @@ A collection of resources around the area of inclusive user research. Check out 
 - [Access Works](https://access-works.com/)
 - [Simply Open](https://www.simplyopen.io/)
 - [dscout](https://dscout.com/)
+- [User Testing](https://www.usertesting.com/)
 
 
 
