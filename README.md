@@ -5,7 +5,8 @@ A collection of resources around the area of inclusive user research. Check out 
 ## Methodologies and Practice
 
 - [A Practical Guide to Inclusive Research. The why and how to make your UX Research practice more inclusive.](https://medium.com/inclusive-research)
-- [Think Like an Accessible UX Researcher Part 1 of 3](https://www.tpgi.com/think-like-an-accessible-ux-researcher-part-1-defining-your-research-problem/) 
+- [Think Like an Accessible UX Researcher Part 1 of 3](https://www.tpgi.com/think-like-an-accessible-ux-researcher-part-1-defining-your-research-problem/)
+- [A Comprehensive Guide to Accessible User Research: Part 1 – Project Planning](https://dscout.com/people-nerds/accessible-user-research-1)
 - [Toward a More Accessible Metaverse](https://medium.com/meta-research/toward-a-more-accessible-metaverse-a98684bb3f7e)
 
 ## Studies
@@ -30,6 +31,7 @@ A collection of resources around the area of inclusive user research. Check out 
 - [Fable](https://makeitfable.com/)
 - [Access Works](https://access-works.com/)
 - [Simply Open](https://www.simplyopen.io/)
+- [dscout](https://dscout.com/)
 
 
 
