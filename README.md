@@ -26,6 +26,7 @@ A collection of resources around the area of inclusive user research. Check out 
 
 ## Summaries
 
+- [Summary of user experiences from 2100 usability sessions with assistive technology users with disabilities](https://makeitfable.com/article/usability-testing-benchmarking-accessibility-a-year-in-review/)
 - [Designing for autistic people — overview of existing research](https://uxdesign.cc/designing-for-autistic-people-overview-of-existing-research-d6f6dc20710e)
 
 ## Participant Recruiters
