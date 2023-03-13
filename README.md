@@ -43,9 +43,15 @@ A collection of resources around the area of inclusive user research. Check out 
 
 ## Experience Reports
 
+### Experience Reports by Blind Folks
+
 - [My experiences with inaccessible job applications & how to fix them](https://www.deque.com/blog/my-experiences-with-inaccessible-job-applications-how-to-fix-them/)
 - [My experiences with inaccessible legal docs and processes – and how to fix them](https://www.deque.com/blog/inaccessible-legal-docs-esign-processes/)
 - [Common Challenges I Face When Banking Online as a Blind Customer](https://blog.usablenet.com/common-challenges-i-face-when-banking-online-as-a-blind-customer)
 - [3 Things a Blind Diner Wishes Restaraunts Knew About Digital Accessibility](https://blog.usablenet.com/3-things-a-blind-diner-wishes-restaurants-knew-about-digital-accessibility)
+
+### Experience Reports by Deaf Folks
+
+- [Deaf FAQ: My Perspective](https://meryl.net/deaf-frequently-asked-questions/)
 
 
