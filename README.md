@@ -64,6 +64,6 @@ A collection of resources around the area of inclusive user research. Check out 
 
 ### Experience Reports via Podcasts
 
-- [#A11yRulesPodcast. Also has transcripts for each episode](https://a11yrules.com/)
+- [A11y Rules Podcast. Also has transcripts for each episode](https://a11yrules.com/)
 
 
