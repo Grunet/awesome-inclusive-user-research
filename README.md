@@ -34,7 +34,7 @@ A collection of resources around the area of inclusive user research. Check out 
 - [Access Works](https://access-works.com/)
 - [Simply Open](https://www.simplyopen.io/)
 - [dscout](https://dscout.com/)
-- [User Testing](https://www.usertesting.com/)
+- [UserTesting.com](https://www.usertesting.com/)
 
 
 
