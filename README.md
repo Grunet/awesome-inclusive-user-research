@@ -43,6 +43,10 @@ A collection of resources around the area of inclusive user research. Check out 
 
 ## Experience Reports
 
+### Experience Reports by Deafblind Folks
+
+- [The Courage to Fight for Chocolate Cake](https://nfb.org/images/nfb/publications/fr/fr32/2/fr320211.htm)
+
 ### Experience Reports by Blind Folks
 
 - [My experiences with inaccessible job applications & how to fix them](https://www.deque.com/blog/my-experiences-with-inaccessible-job-applications-how-to-fix-them/)
