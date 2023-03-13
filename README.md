@@ -43,6 +43,8 @@ A collection of resources around the area of inclusive user research. Check out 
 
 ## Experience Reports
 
+>I put these at the bottom since they are extremely important but also need corroborating with dedicated research for given contexts
+
 ### Experience Reports from Deafblind Folks
 
 - [The Courage to Fight for Chocolate Cake](https://nfb.org/images/nfb/publications/fr/fr32/2/fr320211.htm)
