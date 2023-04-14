@@ -11,6 +11,8 @@ A collection of resources around the area of inclusive user research. Check out 
 - [A Comprehensive Guide to Accessible User Research: Part 1 – Project Planning](https://dscout.com/people-nerds/accessible-user-research-1)
 - [Toward a More Accessible Metaverse](https://medium.com/meta-research/toward-a-more-accessible-metaverse-a98684bb3f7e)
 
+- [Accessibility Lessons Learned from Blind Users Attending a User Research Study](https://equalentry.com/accessibility-lessons-from-blind-users/)
+
 ## Studies
 
 - [Cutting the Curb: The Power of Accessibility Research](https://medium.com/meta-research/cutting-the-curb-the-power-of-accessibility-research-939f7fa7168), specifically these 2 research papers linked from within it
