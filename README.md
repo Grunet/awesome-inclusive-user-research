@@ -20,6 +20,7 @@ A collection of resources around the area of inclusive user research. Check out 
    2. [How Blind People Interact with Visual Content on Social Networking Services](https://research.facebook.com/publications/how-blind-people-interact-with-visual-content-on-social-networking-services/)
 - [What we learned from user testing of accessible client-side routing techniques with Fable Tech Labs](https://www.gatsbyjs.com/blog/2019-07-11-user-testing-accessible-client-routing/)
 - [5 takeaways from screen reader usability interviews](https://jessbudd.com/blog/screen-reader-usability-testing-observations/)
+- [Challenges for Screen-Reader Users on Mobile](https://www.nngroup.com/articles/screen-reader-users-on-mobile/)
 
 ## Surveys
 
