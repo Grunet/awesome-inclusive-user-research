@@ -39,12 +39,13 @@ A collection of resources around the area of inclusive user research. Check out 
 
 ## Participant Recruiters
 
-- [Fable](https://makeitfable.com/)
 - [Access Works](https://access-works.com/)
-- [Simply Open](https://www.simplyopen.io/)
 - [dscout](https://dscout.com/)
+- [Fable](https://makeitfable.com/)
+- [Simply Open](https://www.simplyopen.io/)
 - [UserTesting.com](https://www.usertesting.com/)
 - [user interviews](https://www.userinterviews.com/)
+- [World Institute on Disability](https://wid.org/accessibility-services/#ux-testing)
 
 ## Experience Reports
 
