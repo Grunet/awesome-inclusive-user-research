@@ -15,6 +15,7 @@ A collection of resources around the area of inclusive user research. Check out 
 
 - [Accessibility Lessons Learned from Blind Users Attending a User Research Study](https://equalentry.com/accessibility-lessons-from-blind-users/)
 - [Conducting Mobile Accessibility Research with Screen-Reader Users](https://www.nngroup.com/articles/mobile-accessibility-research/)
+- [Testing essex.gov with blind and low vision users](https://servicetransformation.blog.essex.gov.uk/2023/05/12/testing-essex-gov-with-blind-and-low-vision-users/)
 - [Wizard of Oz Testing](https://www.youtube.com/watch?v=lCuK_djeCtg)
 
 ## Studies
