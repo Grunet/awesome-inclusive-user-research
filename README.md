@@ -73,6 +73,7 @@ A collection of resources around the area of inclusive user research. Check out 
 #### Articles from Deaf Folks
 
 - [Deaf FAQ: My Perspective](https://meryl.net/deaf-frequently-asked-questions/)
+- [My Perspective on Apple Live Speech as a Deaf Person](https://www.deque.com/blog/my-perspective-on-apple-live-speech-as-a-deaf-person/)
 
 ### Experience Reports via Podcasts
 
