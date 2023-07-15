@@ -69,6 +69,7 @@ A collection of resources around the area of inclusive user research. Check out 
 - [My experiences with inaccessible legal docs and processes – and how to fix them](https://www.deque.com/blog/inaccessible-legal-docs-esign-processes/)
 - [Common Challenges I Face When Banking Online as a Blind Customer](https://blog.usablenet.com/common-challenges-i-face-when-banking-online-as-a-blind-customer)
 - [3 Things a Blind Diner Wishes Restaraunts Knew About Digital Accessibility](https://blog.usablenet.com/3-things-a-blind-diner-wishes-restaurants-knew-about-digital-accessibility)
+- [Banking Online While Blind: 3 Best Practices for Accessibility](https://blog.usablenet.com/banking-online-while-blind-3-best-practices-for-web-accessibility)
 
 #### Articles from Deaf Folks
 
