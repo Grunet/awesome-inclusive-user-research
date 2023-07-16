@@ -29,6 +29,7 @@ A collection of resources around the area of inclusive user research. Check out 
 
 ## Surveys
 
+- [The Clickaway Pound Survey, a research survey designed to explore the online shopping experience of people with disabilities and examine the cost to business of ignoring disabled shoppers](https://www.clickawaypound.com/)
 - [Webaim surveys on screen reader users, low vision users, and motor disabled users](https://webaim.org/projects/)
 - [Appt's survey of millions of iOS and Android users in the Netherlands](https://appt.org/en)
 - [Don’t Believe The Type! - axe-con 2021. This is about readability of typefaces](https://youtu.be/h8IOqUl1zII)
